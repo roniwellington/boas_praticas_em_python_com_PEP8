@@ -124,3 +124,4 @@ pytest tests/
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar um problema.
+#####
